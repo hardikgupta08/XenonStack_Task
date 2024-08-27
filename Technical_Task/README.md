@@ -17,7 +17,7 @@ Responsive Design:
     Ensure that the created pages are responsive on desktop and mobile 
     devices.
 
-###Technologies used: 
+### Technologies used: 
 
 Frontend: HTML, CSS, Javascript
 
