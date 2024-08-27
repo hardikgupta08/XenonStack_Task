@@ -14,14 +14,20 @@ Command Name: sysopctl
 Implementation Steps
 
 Step 1: Create a Bash script named sysopctl.
-Step 2: Implement basic command-line options (--help, --version).
-Step 3: Implement the easy-level features.
-Step 4: Implement intermediate-level features.
-Step 5: Implement advanced-level features.
-Step 6: Create a manual page for sysopctl.
-Step 7: Test the command in different scenarios.
-Step 8: Document the command usage and examples.
 
+Step 2: Implement basic command-line options (--help, --version).
+
+Step 3: Implement the easy-level features.
+
+Step 4: Implement intermediate-level features.
+
+Step 5: Implement advanced-level features.
+
+Step 6: Create a manual page for sysopctl.
+
+Step 7: Test the command in different scenarios.
+
+Step 8: Document the command usage and examples.
 
 After creation of Bash script, make the script executable by using 
       chmod +x ssysopctl1
