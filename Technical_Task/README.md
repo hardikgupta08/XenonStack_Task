@@ -51,3 +51,13 @@ In terminal type the following command to get the server up and running.
 
 After the server is running, Ctrl+Leftclick the localhost that is created and it will take you to the flask app home page.
        
+#### Website images
+
+![image](https://github.com/user-attachments/assets/b3449ba6-a5aa-4342-84da-376eb810835d)
+
+![image](https://github.com/user-attachments/assets/403e5f11-00a6-4cb9-a495-9eb44cd885b5)
+
+![HP_site](https://github.com/user-attachments/assets/a3d334e6-a02e-49c9-915f-b1dff673e55e)
+
+
+
